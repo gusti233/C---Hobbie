@@ -1,0 +1,5 @@
+Subir un nivel: cd..
+
+Ir a la raíz: cd\
+
+Subir dos niveles: cd ..\..

@@ -1,0 +1,14 @@
+C:\C++\basics\Csharproy\testproject\bin\Debug\net10.0\testproject.exe
+C:\C++\basics\Csharproy\testproject\bin\Debug\net10.0\testproject.deps.json
+C:\C++\basics\Csharproy\testproject\bin\Debug\net10.0\testproject.runtimeconfig.json
+C:\C++\basics\Csharproy\testproject\bin\Debug\net10.0\testproject.dll
+C:\C++\basics\Csharproy\testproject\bin\Debug\net10.0\testproject.pdb
+C:\C++\basics\Csharproy\testproject\obj\Debug\net10.0\testproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\C++\basics\Csharproy\testproject\obj\Debug\net10.0\testproject.AssemblyInfoInputs.cache
+C:\C++\basics\Csharproy\testproject\obj\Debug\net10.0\testproject.AssemblyInfo.cs
+C:\C++\basics\Csharproy\testproject\obj\Debug\net10.0\testproject.csproj.CoreCompileInputs.cache
+C:\C++\basics\Csharproy\testproject\obj\Debug\net10.0\testproject.dll
+C:\C++\basics\Csharproy\testproject\obj\Debug\net10.0\refint\testproject.dll
+C:\C++\basics\Csharproy\testproject\obj\Debug\net10.0\testproject.pdb
+C:\C++\basics\Csharproy\testproject\obj\Debug\net10.0\testproject.genruntimeconfig.cache
+C:\C++\basics\Csharproy\testproject\obj\Debug\net10.0\ref\testproject.dll

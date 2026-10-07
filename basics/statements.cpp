@@ -58,11 +58,11 @@ int main (){
         case 10:
             std:: cout<<"Es 10 pa"; 
             break; 
-        case 5: 
+        case 5:2 
             std:: cout<< "es 5 pa";
             break;  
         default: 
-            std:: cout<< "Ingresa el nro 5 o 10 HDP"; 
+            std:: cout<< "Ingresa el nro 5 o 10"; 
             break; 
     } 
     

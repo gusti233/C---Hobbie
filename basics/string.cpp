@@ -15,7 +15,7 @@ int main(){
        std::cout<< xd; 
     }
     else if (name.length() <=10) { 
-        std::cout <<"Welcome to ur ass"; 
+        std::cout <<"Welcome"; 
     } 
     else 
         std::cout<< "****Welcome to the website**** \n "<< name;  

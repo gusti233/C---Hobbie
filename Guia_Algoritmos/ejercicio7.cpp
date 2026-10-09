@@ -24,7 +24,7 @@ int main()
 
     for (char x: texto) 
     { 
-        std::cout<< '_' << x; // si o si debo imprimir algo antes del char x, porque sino se muestra en blanco
+        std::cout << '_' << x; // si o si debo imprimir algo antes del char x, porque sino se muestra en blanco
         
         if (toupper(x) == 'A')
         {
